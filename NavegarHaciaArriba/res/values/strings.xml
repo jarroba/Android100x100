@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NavegarHaciaArriba</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="libro_a">Libro A</string>
+    <string name="descripci_n_y_datos_del_libro_">Descripción y datos del libro ...</string>
+    <string name="libros">LIBROS</string>
+    <string name="libro_b">Libro B</string>
+    <string name="productos_recomendados">Productos recomendados</string>
+    <string name="v_deo_a">Vídeo A</string>
+    <string name="sinopsis_y_datos_del_v_deo_">Sinopsis y datos del vídeo ...</string>
+    <string name="v_deos">VÍDEOS</string>
+    <string name="v_deo_b">Vídeo B</string>
+
+</resources>
