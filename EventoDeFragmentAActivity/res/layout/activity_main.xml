@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_red_light"
+    android:orientation="vertical"
+    tools:context="com.jarroba.eventodefragmentafragment.MainActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <TextView
+        android:id="@+id/textView$activity_main$texto"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Texto a cambiar. Estoy en Activity"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <fragment
+        android:id="@+id/fragment$activity_main$miFragment"
+        android:name="com.jarroba.eventodefragmentaactivity.MiFragment"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        tools:layout="@layout/mi_fragment" />
+
+</LinearLayout>
