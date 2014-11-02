@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiPrimerasViews</string>
+    <string name="un_texto_cualquiera">Un texto cualquiera</string>
+    <string name="el_texto_cambiado_desde_java">El texto cambiado desde Java</string>
+
+</resources>
