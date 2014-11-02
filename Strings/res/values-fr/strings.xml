@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Strings</string>
+
+    <string name="muestro_un_texto_directamente_desde_xml">Je montre le texte directement à partir de XML</string>
+    
+    <string name="boton_guardar">Bouton Enregistrer</string>
+    
+    <string-array name="stringarray_pajaros">
+        <item>Hibou</item>
+        <item>Colibri</item>
+        <item>Corneille</item>
+        <item>Flamenco</item>
+        <item>Kiwi</item>
+        <item>Parrot</item>
+        <item>Turquie</item>
+        <item>manchot</item>
+    </string-array>
+    
+    <plurals name="plurals_numero_de_pajaros">
+        <item quantity="one">A été choisi seul oiseau</item>
+        <item quantity="other">%d oiseaux ont été sélectionnés</item>
+    </plurals>
+        
+</resources>
+
+
+<!-- <?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Strings</string>
+
+    <string name="muestro_un_texto_directamente_desde_xml">Je montre le texte directement à partir de XML</string>
+    
+    <string name="boton_guardar">Bouton Enregistrer</string>
+    
+    <string-array name="stringarray_pajaros">
+        <item>Hibou</item>
+        <item>Colibri</item>
+        <item>Corneille</item>
+        <item>Flamenco</item>
+        <item>Kiwi</item>
+        <item>Parrot</item>
+        <item>Turquie</item>
+        <item>manchot</item>
+    </string-array>
+    
+    <plurals name="plurals_numero_de_pajaros">
+        <item quantity="one">A été choisi seul oiseau</item>
+        <item quantity="other">d% oiseaux ont été sélectionnés</item>
+    </plurals>
+        
+</resources> -->

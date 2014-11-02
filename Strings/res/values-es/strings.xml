@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Strings</string>
+
+    <string name="muestro_un_texto_directamente_desde_xml">Muestro un texto directamente desde XML</string>
+    
+    <string name="boton_guardar">Botón Guardar</string>
+    
+    <string-array name="stringarray_pajaros">
+        <item>Buho</item>
+        <item>Colibrí</item>
+        <item>Cuervo</item>
+        <item>Flamenco</item>
+        <item>Kiwi</item>
+        <item>Loro</item>
+        <item>Pavo</item>
+        <item>Pingüino</item>
+    </string-array>
+    
+    <plurals name="plurals_numero_de_pajaros">
+        <item quantity="one">Se ha seleccionado un único pájaro</item>
+        <item quantity="other">Se han seleccionado %d pájaros</item>
+    </plurals>
+        
+</resources>
