@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DibujarUIEstilos</string>
+    <string name="jarroba">TextView A - www.Jarroba.com</string>
+    <string name="jarroba_b">TextoView B - Tutoriales Informáticos</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

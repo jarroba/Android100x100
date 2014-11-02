@@ -1,0 +1,22 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        El tema base de la aplicación, dependerá del nivel de la API. Este tema se remplazará
+        por el definido en AppBaseTheme desde res/values-vXX/styles.xml o en nuevos dispositivos.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+        	Las personalizaciones de los temas en los nuevos niveles de la API
+        	pueden ir en res/values-vXX/styles.xml, mientras las personalizaciones 
+        	puedan ser compatibles en las verisones anteriores podrán ir aquí
+        -->
+    </style>
+
+    <!-- Tema de la aplicación. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- Todas las personalizaciones que NO especifiquen en particular un nivel de la API pueden ir aquí. -->
+        <item name="android:windowBackground">@android:color/holo_green_light</item>
+        <!-- <item name="android:colorBackground">@color/custom_theme_color</item> -->
+    </style>
+
+</resources>

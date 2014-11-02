@@ -1,0 +1,11 @@
+<resources>
+
+    <!--
+        Tema base de la aplicación para nieveles iguales o superiores al API 14. Este tema sustituirá completamente
+        al AppBaseTheme de res/values/styles.xml en dispositivos que tengan versiones de Android al menos la 14.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Personalizaciones del tema para niveles superiores o iguales a la API 14 pueden ir aquí. -->
+    </style>
+
+</resources>

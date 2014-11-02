@@ -1,0 +1,11 @@
+<resources>
+
+    <!--
+        Tema base de la aplicación para nieveles iguales o superiores al API 11. Este tema sustituirá completamente
+        al AppBaseTheme de res/values/styles.xml en dispositivos que tengan versiones de Android al menos la 11.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- Personalizaciones del tema para niveles superiores o iguales a la API 11 pueden ir aquí. -->
+    </style>
+
+</resources>
