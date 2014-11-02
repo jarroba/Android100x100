@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeUnaActivityAOtraExterna</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="abrir_activity_de_c_mara">Abrir Activity de Cámara</string>
+    <string name="imagen_obtenida_al_volver_de_la_activity_de_la_c_mara_">Imagen obtenida al volver de la Activity de la Cámara:</string>
+    <string name="imagen_devuelta_por_la_c_mara">Imagen devuelta por la cámara</string>
+
+</resources>

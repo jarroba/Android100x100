@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.jarroba.deunaactivityaotraexterna.MainActivity" >
+
+    <Button
+        android:id="@+id/button$activity_main$hacerFoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/abrir_activity_de_c_mara" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/imagen_obtenida_al_volver_de_la_activity_de_la_c_mara_"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ImageView
+        android:id="@+id/imageView$activity_main$ponerAquiFoto"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:src="@android:drawable/ic_menu_gallery"
+        android:contentDescription="@string/imagen_devuelta_por_la_c_mara" />
+
+</LinearLayout>
