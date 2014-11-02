@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeUnaActivityAOtra</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_primera">ACTIVITY PRIMERA</string>
+    <string name="texto_a_pasar_a_la_otra_activity">Texto a pasar a la otra Activity</string>
+    <string name="activity_segunda_n_nel_dato_pasado_es_">ACTIVITY SEGUNDA\n\nEl dato pasado es:</string>
+    <string name="iniciar_una_nueva_activity">Iniciar una nueva Activity</string>
+
+</resources>
