@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Colores</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="coloreado_desde_xml_con_nuestro_color">Coloreado desde XML con nuestro color</string>
+    <string name="coloreado_desde_xml_con_un_color_de_la_api_de_android">Coloreado desde XML con un color de la API de Android</string>
+    <string name="texto_coloreado_desde_java_con_nuestro_color">Texto coloreado desde Java con nuestro color</string>
+    <string name="texto_de_bot_n_coloreado_desde_java_con_un_color_de_la_api_de_android">Texto de botón coloreado desde Java con un color de la API de Android</string>
+
+</resources>
