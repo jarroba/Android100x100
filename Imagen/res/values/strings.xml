@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Imagen</string>
+    <string name="un_texto_cualquiera_nwww_jarroba_com">Un texto cualquiera\nwww.Jarroba.com</string>
+    <string name="p_lsame">Púlsame</string>
+    <string name="descripci_n_de_la_im_gen">Descripción de la imágen</string>
+    <string name="www_jarroba_com">www.jarroba.com</string>
+
+</resources>

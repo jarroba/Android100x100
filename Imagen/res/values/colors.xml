@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Rojo">#FFFF0000</color>
+    <color name="Verde">#FF00FF00</color>
+    <color name="Azul">#FF0000FF</color>
+    <color name="Amarillo">#FFFFFF00</color>
+    <color name="Morado">#FFC54B8C</color>
+    <color name="Morado_ligeramente_transparente">#AAC54B8C</color>
+    <color name="Dorado">#FFFFD700</color>
+    <color name="Rosa">#FFFF00FF</color>
+    
+    <integer-array name="ColoresSemaforo">
+        <item>@color/Rojo</item>
+        <item>@color/Amarillo</item>
+		<item>@color/Verde</item>
+    </integer-array>
+    
+</resources>
