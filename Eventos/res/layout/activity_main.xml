@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <Button
+        android:id="@+id/button$activity_main$pulsame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp"
+        android:text="Púlsame y cambia el color al texto" />
+
+    <TextView
+        android:id="@+id/textView$activity_main$coloreame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button$activity_main$pulsame"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="36dp"
+        android:text="Cámbiame de color"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout>
