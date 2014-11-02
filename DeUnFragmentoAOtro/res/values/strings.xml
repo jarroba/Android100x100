@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeUnFragmentoAOtro</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cambiar_de_fragment_din_mico">Cambiar de Fragment Dinámico</string>
+    <string name="fragment_din_mico_b">Fragment Dinámico B</string>
+    <string name="fragment_din_mico_a">Fragment Dinámico A</string>
+    <string name="fragment_est_tico">Fragment Estático</string>
+
+</resources>
