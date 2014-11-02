@@ -31,6 +31,7 @@ public class MainActivity extends Activity {
 				Button btDentro = (Button) v;
 				btDentro.setText("Pulsado y color cambiado");
 				btDentro.setEnabled(false);
+
 				int color = getResources().getColor(android.R.color.holo_red_light);
 				tv.setTextColor(color);
 				tv.setText("Color cambiado");
