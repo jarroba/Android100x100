@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_red_light"
+    android:orientation="vertical"
+    tools:context="com.jarroba.eventodefragmentafragment.MainActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <fragment
+        android:id="@+id/fragment$activity_main$fragmentSuperior"
+        android:name="com.jarroba.eventodefragmentafragment.FragmentSuperior"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        tools:layout="@layout/fragment_superior" />
+
+    <ImageView
+        android:id="@+id/imageView$activity_main$imagenDeActivity"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="0.32"
+        android:contentDescription="@string/imagen_de_la_activity"
+        android:src="@android:drawable/ic_menu_recent_history" />
+
+    <fragment
+        android:id="@+id/fragment$activity_main$fragmentInferior"
+        android:name="com.jarroba.eventodefragmentafragment.FragmentInferior"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        tools:layout="@layout/fragment_inferior" />
+
+</LinearLayout>

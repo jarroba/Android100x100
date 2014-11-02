@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EventoDeFragmentAFragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="imagen_de_la_activity">Imagen de la Activity</string>
+    <string name="cambiar_este_texto">Cambiar este texto</string>
+    <string name="p_lsame_y_cambia_el_texto_del_fragment_de_abajo">Púlsame y cambia el texto del Fragment de abajo</string>
+
+</resources>
